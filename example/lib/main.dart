@@ -1,7 +1,7 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:drago_speech/drago_speech.dart';
+import 'package:drago_speech_recognition/speech.dart';
 
 void main() {
   runApp(MyApp());
