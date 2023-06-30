@@ -4,18 +4,18 @@
 <<<<<<< HEAD
     <list default="true" id="687edc03-8d42-4992-ba4a-a025b5146b98" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/com/flutter/speech_recognition/flutter_speech_recognition/FlutterSpeechRecognitionPlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/src/main/java/com/flutter/speech_recognition/flutter_speech/FlutterSpeechRecognitionPlugin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/com/flutter/speech_recognition/drago_speech_recognition/FlutterSpeechRecognitionPlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/src/main/java/com/flutter/speech_recognition/drago_speech/FlutterSpeechRecognitionPlugin.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/example/ios/Podfile" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Podfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/example/ios/Podfile.lock" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/example/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/lib/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_speech_recognition.iml" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_speech_recognition.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/drago_speech_recognition.iml" beforeDir="false" afterPath="$PROJECT_DIR$/drago_speech_recognition.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ios/Classes/FlutterSpeechRecognitionPlugin.m" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Classes/FlutterSpeechRecognitionPlugin.m" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/flutter_speech_recognition.podspec" beforeDir="false" afterPath="$PROJECT_DIR$/ios/flutter_speech.podspec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/flutter_speech_recognition.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/flutter_speech.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/drago_speech_recognition.podspec" beforeDir="false" afterPath="$PROJECT_DIR$/ios/drago_speech.podspec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/drago_speech_recognition.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/drago_speech.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/macos/Classes/FlutterSpeechRecognitionPlugin.h" beforeDir="false" afterPath="$PROJECT_DIR$/macos/Classes/FlutterSpeechRecognitionPlugin.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/macos/Classes/FlutterSpeechRecognitionPlugin.m" beforeDir="false" afterPath="$PROJECT_DIR$/macos/Classes/FlutterSpeechRecognitionPlugin.m" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/macos/flutter_speech_recognition.podspec" beforeDir="false" afterPath="$PROJECT_DIR$/macos/flutter_speech.podspec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/drago_speech_recognition.podspec" beforeDir="false" afterPath="$PROJECT_DIR$/macos/drago_speech.podspec" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -44,11 +44,11 @@
       <change beforePath="$PROJECT_DIR$/example/macos/Podfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/example/macos/Podfile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/example/macos/Runner-Bridging-Header.h" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/example/macos/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/example/macos/Runner.xcodeproj/project.pbxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_speech_recognition.iml" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_speech_recognition.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/drago_speech_recognition.iml" beforeDir="false" afterPath="$PROJECT_DIR$/drago_speech_recognition.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ios/Assets/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/flutter_speech.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/flutter_speech.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/drago_speech.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/drago_speech.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/macos/Classes/FlutterSpeechRecognitionPlugin.m" beforeDir="false" afterPath="$PROJECT_DIR$/macos/Classes/FlutterSpeechRecognitionPlugin.m" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/macos/flutter_speech.podspec" beforeDir="false" afterPath="$PROJECT_DIR$/macos/flutter_speech.podspec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/drago_speech.podspec" beforeDir="false" afterPath="$PROJECT_DIR$/macos/drago_speech.podspec" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
     </list>
@@ -373,14 +373,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/flutter_speech_recognition_test.dart">
+    <entry file="file://$PROJECT_DIR$/test/drago_speech_recognition_test.dart">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/android/src/main/java/com/flutter/speech_recognition/flutter_speech_recognition/FlutterSpeechRecognitionPlugin.java">
+    <entry file="file://$PROJECT_DIR$/android/src/main/java/com/flutter/speech_recognition/drago_speech_recognition/FlutterSpeechRecognitionPlugin.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
           <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
@@ -399,7 +399,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/flutter_speech.dart">
+    <entry file="file://$PROJECT_DIR$/lib/drago_speech.dart">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="163">
           <caret line="43" column="44" selection-start-line="43" selection-start-column="44" selection-end-line="43" selection-end-column="44" />
@@ -423,7 +423,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/macos/flutter_speech_recognition.podspec">
+    <entry file="file://$PROJECT_DIR$/macos/drago_speech_recognition.podspec">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
@@ -457,7 +457,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ios/flutter_speech.podspec">
+    <entry file="file://$PROJECT_DIR$/ios/drago_speech.podspec">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="19" lean-forward="true" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />

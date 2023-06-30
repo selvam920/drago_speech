@@ -1,21 +1,21 @@
 PODS:
   - Flutter (1.0.0)
-  - flutter_speech (0.0.1):
+  - drago_speech (0.0.1):
     - Flutter
 
 DEPENDENCIES:
   - Flutter (from `Flutter`)
-  - flutter_speech (from `.symlinks/plugins/flutter_speech/ios`)
+  - drago_speech (from `.symlinks/plugins/drago_speech/ios`)
 
 EXTERNAL SOURCES:
   Flutter:
     :path: Flutter
-  flutter_speech:
-    :path: ".symlinks/plugins/flutter_speech/ios"
+  drago_speech:
+    :path: ".symlinks/plugins/drago_speech/ios"
 
 SPEC CHECKSUMS:
   Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
-  flutter_speech: d3db868ad1b390b5f6ac7308ec09b6b608545c03
+  drago_speech: d3db868ad1b390b5f6ac7308ec09b6b608545c03
 
 PODFILE CHECKSUM: 7368163408c647b7eb699d0d788ba6718e18fb8d
 

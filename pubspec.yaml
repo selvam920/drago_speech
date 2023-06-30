@@ -1,8 +1,7 @@
-name: flutter_speech
+name: drago_speech
 description: Flutter plugin to support voice recognition on Android, iOS and Mac OSX
-version: 2.0.0
-author: jaumard <jimmy.aumard@gmail.com>
-homepage: https://github.com/jaumard/flutter_speech_recognition
+version: 1.0.0
+homepage: https://github.com/jaumard/drago_speech_recognition
 
 environment:
   sdk: '>=2.12.0 <3.0.0'
@@ -28,7 +27,7 @@ flutter:
       macos:
         pluginClass: FlutterSpeechRecognitionPlugin
       android:
-        package: com.flutter.speech_recognition.flutter_speech
+        package: com.flutter.speech_recognition.drago_speech
         pluginClass: FlutterSpeechRecognitionPlugin
     #macosPrefix: Flutter
     #iosPrefix: Flutter

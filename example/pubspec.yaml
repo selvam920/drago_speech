@@ -7,7 +7,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_speech:
+  drago_speech:
     path: ../
 
 # For information on the generic Dart part of this file, see the

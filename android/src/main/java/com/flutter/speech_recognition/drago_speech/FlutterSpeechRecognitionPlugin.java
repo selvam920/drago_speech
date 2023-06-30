@@ -1,4 +1,4 @@
-package com.flutter.speech_recognition.flutter_speech;
+package com.flutter.speech_recognition.drago_speech;
 
 import android.Manifest;
 import android.content.Context;

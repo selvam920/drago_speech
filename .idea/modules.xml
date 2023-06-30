@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/flutter_speech_recognition.iml" filepath="$PROJECT_DIR$/flutter_speech_recognition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/drago_speech_recognition.iml" filepath="$PROJECT_DIR$/drago_speech_recognition.iml" />
     </modules>
   </component>
 </project>

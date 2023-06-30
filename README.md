@@ -1,4 +1,4 @@
-# flutter_speech_recognition
+# drago_speech_recognition
 
 Based on [rxlabz plugin](https://github.com/rxlabz/speech_recognition)
 

@@ -5,7 +5,7 @@
 import FlutterMacOS
 import Foundation
 
-import flutter_speech
+import drago_speech
 
 func RegisterGeneratedPlugins(registry: FlutterPluginRegistry) {
   FlutterSpeechRecognitionPlugin.register(with: registry.registrar(forPlugin: "FlutterSpeechRecognitionPlugin"))

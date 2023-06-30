@@ -5,18 +5,18 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "flutter_speech_recognition-master",
+            "name": "drago_speech_recognition-master",
             "request": "launch",
             "type": "dart"
         },
         {
-            "name": "flutter_speech_recognition-master (profile mode)",
+            "name": "drago_speech_recognition-master (profile mode)",
             "request": "launch",
             "type": "dart",
             "flutterMode": "profile"
         },
         {
-            "name": "flutter_speech_recognition-master (release mode)",
+            "name": "drago_speech_recognition-master (release mode)",
             "request": "launch",
             "type": "dart",
             "flutterMode": "release"
