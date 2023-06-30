@@ -7,15 +7,16 @@ typedef void AvailabilityHandler(bool result);
 typedef void StringResultHandler(String text);
 
 /// the channel to control the speech recognition
-class SpeechRecognition {
+class DragoSpeechRecognition {
   static const MethodChannel _channel =
       const MethodChannel('com.flutter.speech_recognition');
 
-  static final SpeechRecognition _speech = new SpeechRecognition._internal();
+  static final DragoSpeechRecognition _speech =
+      new DragoSpeechRecognition._internal();
 
-  factory SpeechRecognition() => _speech;
+  factory DragoSpeechRecognition() => _speech;
 
-  SpeechRecognition._internal() {
+  DragoSpeechRecognition._internal() {
     _channel.setMethodCallHandler(_platformCallHandler);
   }
 
