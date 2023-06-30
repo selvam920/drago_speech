@@ -28,7 +28,7 @@ class MyApp extends StatefulWidget {
 }
 
 class _MyAppState extends State<MyApp> {
-  late SpeechRecognition _speech;
+  late DragoSpeechRecognition _speech;
 
   bool _speechRecognitionAvailable = false;
   bool _isListening = false;
@@ -47,7 +47,7 @@ class _MyAppState extends State<MyApp> {
   // Platform messages are asynchronous, so we initialize in an async method.
   void activateSpeechRecognizer() {
     print('_MyAppState.activateSpeechRecognizer... ');
-    _speech = SpeechRecognition();
+    _speech = DragoSpeechRecognition();
     _speech.setAvailabilityHandler(onSpeechAvailability);
     _speech.setRecognitionStartedHandler(onRecognitionStarted);
     _speech.setRecognitionResultHandler(onRecognitionResult);
