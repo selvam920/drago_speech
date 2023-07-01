@@ -34,7 +34,7 @@ class _MyAppState extends State<MyApp> {
 
   String transcription = '';
 
-  //String _currentLocale = 'en_US';
+  String _currentLocale = 'en_IN';
   Language selectedLang = languages.first;
 
   @override
@@ -52,7 +52,7 @@ class _MyAppState extends State<MyApp> {
     _speech.setRecognitionResultHandler(onRecognitionResult);
     _speech.setRecognitionCompleteHandler(onRecognitionComplete);
     _speech.setErrorHandler(errorHandler);
-    _speech.activate('ta_IN').then((res) {
+    _speech.activate(_currentLocale).then((res) {
       setState(() => _speechRecognitionAvailable = res);
     });
   }
@@ -138,7 +138,7 @@ class _MyAppState extends State<MyApp> {
             ),
           ));
 
-  void start() => _speech.activate(selectedLang.code).then((_) {
+  void start() => _speech.activate(_currentLocale).then((_) {
         return _speech.listen().then((result) {
           print('_MyAppState.start => result $result');
           setState(() {
@@ -178,8 +178,6 @@ class _MyAppState extends State<MyApp> {
   }
 
   void errorHandler() {
-    Future.delayed(Duration(milliseconds: 10), () {
-      activateSpeechRecognizer();
-    });
+    activateSpeechRecognizer();
   }
 }
